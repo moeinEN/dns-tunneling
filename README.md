@@ -79,7 +79,7 @@ sudo iodine -f -r -P secretpassword 8.8.4.4 t.example.com
 | `-O codec`| codec downstream (raw, base32, base64, base128)  |
 | `-r`      | DNS-only mode                                   |
 | `-L 0/1`  | lazy mode خاموش/روشن                             |
-| `-I sec`  | فاصله pingها (دیفالت ۵)                          |
+| `-I sec`  | فاصله ذرخواست ها (دیفالت ۵)                          |
 
 ---
 
