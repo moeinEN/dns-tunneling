@@ -22,7 +22,7 @@
    ```
 2. رکورد NS برای زیردامنه تونل:
    ```
-   t.example.com. NS ns.example.com.
+   t.example.com. NS ns.example.com
    ```
 
 > نکته:
