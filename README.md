@@ -22,10 +22,12 @@
    ```
    ns.example.com. A SERVER2_IP
    ```
+   ![A record](https://github.com/moeinEN/dns-tunneling/blob/main/INFO_2.png)
 2. رکورد NS برای زیردامنه تونل:
    ```
    t.example.com. NS ns.example.com
    ```
+   ![NS record](https://github.com/moeinEN/dns-tunneling/blob/main/INFO_3.png)
 
 > نکته:
 > - دامنه کوتاه و قدیمی انتخاب کنید تا فضای بیشتری برای دیتا فراهم باشد.
